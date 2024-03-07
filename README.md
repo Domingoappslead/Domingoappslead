@@ -14,7 +14,7 @@
 
 💬 Ask me about **SQL, Oracle, Java... or anything [here](https://github.com/Domingoappslead/Domingoappslead/issues)**
 
-⚡ Fun fact **About Solo Leveling, Sung Jin-Woo starts his journey as an E-Rank Hunter**
+⚡ Fun fact About **Solo Leveling, Sung Jin-Woo starts his journey as an E-Rank Hunter**
 
  </div>
  
