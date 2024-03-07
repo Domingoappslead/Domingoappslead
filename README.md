@@ -10,7 +10,7 @@
  
 🔭 I’m currently working on **KCC**
  
-🌱 I’m currently learning **C#, Node js, Docker**
+🌱 I’m currently learning **C#, PL/SQL, Git**
 
 💬 Ask me about **SQL, Oracle, Java... or anything [here](https://github.com/Domingoappslead/Domingoappslead/issues)**
 
